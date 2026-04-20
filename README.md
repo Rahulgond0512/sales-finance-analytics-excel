@@ -1,6 +1,6 @@
-📊 Sales and Finance Analytics (Excel Project)
+# 📊 Sales and Finance Analytics (Excel Project)
 
-🔍 Project Overview
+## 🔍 Project Overview
 
 This project focuses on building comprehensive Sales and Finance Analytics Reports using Microsoft Excel.
 The goal is to transform raw business data into meaningful insights that support strategic decision-making.
@@ -16,16 +16,16 @@ The project includes multiple reports covering areas such as customer net sales 
 
 ---
 
-🏢 Business Context
+## 🏢 Business Context
 
-Atliq Hardware is a company that sells a wide range of hardware products such as computers, mouse, printers and other accessories.
-The company sells ther products by three main sales channels, on retail channel such as both offline retail channels (like Croma, Best Buy) and online platforms (Amazon, Flipkart), on direct channels such as AtliQ Exclusive and AtliQ E-store, and some countries direct sales are not allowed because of government policies so the company uses distributors like neptune for china and Korea.
+Atliq Hardware is a company that sells a wide range of hardware products such as computers, keyboards, printers and other accessories.
+The company sells their products by three main sales channels, on retail channel such as both offline retail channels (like Croma, Best Buy) and online platforms (Amazon, Flipkart), on direct channels such as AtliQ Exclusive and AtliQ E-store, and some countries direct sales are not allowed because of government policies so the company uses distributors like neptune for china and Korea.
 
 This project helps analyze business performance across products, markets, and financial dimensions.
 
 ---
 
-❗ Problem Statement
+## ❗ Problem Statement
 
 To develop an interactive business intelligence solution in Excel that enables:
 
@@ -36,7 +36,7 @@ To develop an interactive business intelligence solution in Excel that enables:
 
 ---
 
-📈 Sales Analysis
+## 📈 Sales Analysis
 
 🎯 Objectives
 
@@ -48,7 +48,7 @@ To develop an interactive business intelligence solution in Excel that enables:
 
 ---
 
-💰 Financial Analysis
+## 💰 Financial Analysis
 
 🎯 Objectives
 
@@ -61,7 +61,7 @@ To develop an interactive business intelligence solution in Excel that enables:
 
 ---
 
-📊 Overall Insights
+## 📊 Overall Insights
 
 - **Customer sales Performance**: Significant growth in sales, epecially in 2021, with a 304% increase.
 - **Market performance vs target**: Insights into market performance relative to sales goals.
@@ -84,6 +84,7 @@ To develop an interactive business intelligence solution in Excel that enables:
 ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-FF9800?style=for-the-badge)
 ![Data Transformation](https://img.shields.io/badge/Data%20Transformation-9C27B0?style=for-the-badge)
 ![Dashboard Design](https://img.shields.io/badge/Dashboard%20Design-00BCD4?style=for-the-badge)
+
 
 ---
 
