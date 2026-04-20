@@ -42,7 +42,7 @@ To develop an interactive business intelligence solution in Excel that enables:
 
 - Identify Top 10 products with highest sales growth
 - Analyze division-wise sales performance
-- Identify Top & Bottom 5 products by quantity
+- Identify Top & Bottom 5 products by quantity sold
 - Analyze new products launched in 2021
 - Identify Top 5 countries by sales
 
@@ -54,10 +54,10 @@ To develop an interactive business intelligence solution in Excel that enables:
 
 - Analyze Customer Net Sales Performance
 - Compare Market Performance vs Targets
-- Create Yearly Profit & Loss Reports
+- Generate Yearly Profit & Loss Reports
 - Analyze Quarterly P&L report
 - Evaluate Market-wise Profit & Loss
-- Track Gross Margin % (GM%) by location
+- Monitor Gross Margin % (GM%) by location
 
 ---
 
